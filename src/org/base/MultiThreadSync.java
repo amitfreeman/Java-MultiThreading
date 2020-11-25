@@ -1,5 +1,5 @@
 package org.base;
-///this comment should be uploaded please
+///this comment should be merged please
 
 class Counter{
 	private int count;
